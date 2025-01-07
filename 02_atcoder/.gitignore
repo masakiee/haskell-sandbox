@@ -1,2 +1,3 @@
-abc*
-!abc*.hs
+abc*.o
+abc*.hi
+output
